@@ -1,5 +1,20 @@
 ### 🛠️ Tech Stack
 
+
+**Projects**
+### 🚀 Projects
+
+**[GitDocs](https://github.com/craftedkid/GIT-DOCS--2026)**
+AI-powered doc generator that turns any GitHub repo into structured technical docs or blogs using NLP + AST parsing. Built with Flask, Next.js.
+
+**[Tamato](https://github.com/craftedkid/Tamato)**
+MERN stack food delivery platform with secure tokenized payments, JWT auth, and a 15+ endpoint REST API.
+
+**[Vyraine](https://github.com/craftedkid/Vyraine-)**
+Responsive web platform built with React.js and Supabase/PostgreSQL — real-time data sync and secure CRUD.
+
+**[Om Pawar Portfolio](https://github.com/craftedkid/Om-Pawar-Portfolio)**
+My personal developer portfolio showcasing projects, skills, and experience.
 **Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
